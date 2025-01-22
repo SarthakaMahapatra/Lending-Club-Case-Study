@@ -28,7 +28,8 @@ Background
 This analysis leverages exploratory data analysis (EDA) techniques to uncover actionable insights about applicants' loan behaviors and risk factors.
 
 Dataset
-The dataset contains detailed information about borrowers, loan amounts, purposes, grades, income levels, and repayment histories.
+
+>The dataset contains detailed information about borrowers, loan amounts, purposes, grades, income levels, and repayment histories.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
