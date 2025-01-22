@@ -13,10 +13,18 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Objective
+The objective of this project is to analyze Lending Club's dataset to identify key patterns and variables associated with loan defaults. This information will help the company make data-driven decisions to mitigate credit losses.
+
+Background
+Lending Club processes a high volume of loan applications and faces two major challenges:
+
+Approving loans for applicants likely to repay them, ensuring profitability.
+Identifying applicants at higher risk of default, to prevent financial losses.
+This analysis leverages exploratory data analysis (EDA) techniques to uncover actionable insights about applicants' loan behaviors and risk factors.
+
+Dataset
+The dataset contains detailed information about borrowers, loan amounts, purposes, grades, income levels, and repayment histories.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
