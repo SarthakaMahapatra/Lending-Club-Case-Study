@@ -63,14 +63,11 @@ Dataset
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Sarthaka Mahapatra and Shikha Jain - feel free to contact me!
 
 
 <!-- Optional -->
