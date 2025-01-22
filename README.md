@@ -1,5 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Lending Club is a financial marketplace that specializes in offering various types of loans to urban customers. The primary challenge the company faces is minimizing financial losses from loans extended to applicants considered "risky." These credit losses primarily result from borrowers failing to repay their loans, also known as "charged-off" cases.
+
+> The goal of this analysis is to identify key factors influencing loan defaults and to develop insights for better risk management and business decisions.
 
 
 ## Table of Contents
