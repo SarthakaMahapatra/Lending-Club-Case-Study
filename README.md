@@ -21,9 +21,9 @@ Background
 
 >Lending Club processes a high volume of loan applications and faces two major challenges:
 
->>Approving loans for applicants likely to repay them, ensuring profitability.
+>>* Approving loans for applicants likely to repay them, ensuring profitability.
 >>
->>Identifying applicants at higher risk of default, to prevent financial losses.
+>>* Identifying applicants at higher risk of default, to prevent financial losses.
 
 This analysis leverages exploratory data analysis (EDA) techniques to uncover actionable insights about applicants' loan behaviors and risk factors.
 
