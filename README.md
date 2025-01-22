@@ -50,11 +50,15 @@ Dataset
 
 
 ## Technologies Used
-Python - version 3.10.10
-Matplotlib - version 3.7.1
-Numpy - version 1.23.5
-Pandas - version 2.0.1
-Seaborn - version 0.12.2
+*Python - version 3.10.10
+
+*Matplotlib - version 3.7.1
+
+*Numpy - version 1.23.5
+
+*Pandas - version 2.0.1
+
+*Seaborn - version 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
