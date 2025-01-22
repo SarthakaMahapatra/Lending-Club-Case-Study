@@ -67,7 +67,7 @@ This project was inspired by UpGrad IITB Programme as a case study for the Machi
 
 
 ## Contact
-Created by Sarthaka Mahapatra and Shikha Jain - feel free to contact me!
+Created by Sarthaka Mahapatra and Shikha Jain - feel free to contact us!
 
 
 <!-- Optional -->
