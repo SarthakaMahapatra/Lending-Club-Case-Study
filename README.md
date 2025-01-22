@@ -14,10 +14,12 @@
 
 ## General Information
 Objective
-The objective of this project is to analyze Lending Club's dataset to identify key patterns and variables associated with loan defaults. This information will help the company make data-driven decisions to mitigate credit losses.
+
+>The objective of this project is to analyze Lending Club's dataset to identify key patterns and variables associated with loan defaults. This information will help the company make data-driven decisions to mitigate credit losses.
 
 Background
-Lending Club processes a high volume of loan applications and faces two major challenges:
+
+>Lending Club processes a high volume of loan applications and faces two major challenges:
 
 Approving loans for applicants likely to repay them, ensuring profitability.
 Identifying applicants at higher risk of default, to prevent financial losses.
